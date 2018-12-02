@@ -1,0 +1,14 @@
+C:\Users\fatihy\Desktop\EFCore\EFCore\bin\Debug\netcoreapp2.1\EFCore.deps.json
+C:\Users\fatihy\Desktop\EFCore\EFCore\bin\Debug\netcoreapp2.1\EFCore.runtimeconfig.json
+C:\Users\fatihy\Desktop\EFCore\EFCore\bin\Debug\netcoreapp2.1\EFCore.runtimeconfig.dev.json
+C:\Users\fatihy\Desktop\EFCore\EFCore\bin\Debug\netcoreapp2.1\EFCore.dll
+C:\Users\fatihy\Desktop\EFCore\EFCore\bin\Debug\netcoreapp2.1\EFCore.pdb
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.csproj.CoreCompileInputs.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.RazorAssemblyInfo.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.RazorAssemblyInfo.cs
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.AssemblyInfoInputs.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.AssemblyInfo.cs
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.RazorTargetAssemblyInfo.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.dll
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.pdb
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCore.csprojAssemblyReference.cache

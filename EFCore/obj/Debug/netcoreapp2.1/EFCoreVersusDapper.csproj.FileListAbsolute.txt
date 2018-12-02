@@ -1,0 +1,6 @@
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCoreVersusDapper.csprojAssemblyReference.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCoreVersusDapper.csproj.CoreCompileInputs.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCoreVersusDapper.RazorAssemblyInfo.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCoreVersusDapper.RazorAssemblyInfo.cs
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCoreVersusDapper.AssemblyInfoInputs.cache
+C:\Users\fatihy\Desktop\EFCore\EFCore\obj\Debug\netcoreapp2.1\EFCoreVersusDapper.AssemblyInfo.cs
