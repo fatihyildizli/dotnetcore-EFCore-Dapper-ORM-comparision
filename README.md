@@ -9,6 +9,8 @@ Dapper.FluentMap
 Swashbuckle.AspNetCore.SwaggerGen
 Swashbuckle.AspNetCore.Swagger
 ```
+#### Example EFCore vs Dapper 
+![Alt](/image/orders.PNG "Orders")  ![Alt](/image/shippers.PNG "Shippers")
 
 ### Database:
 Northwind : https://www.microsoft.com/en-us/download/confirmation.aspx?id=23654
